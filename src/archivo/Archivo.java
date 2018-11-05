@@ -5,7 +5,6 @@ import java.util.*;
 
 public class Archivo {
 
-
     public static void main(String[] args) {
         File archivo = new File("C://prueba//archivo.txt");
         final Formatter nuevoarchivo;
